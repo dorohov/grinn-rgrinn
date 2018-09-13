@@ -1,0 +1,43 @@
+{
+	"contacts":{
+		"name":"Ресторан «Гринн»",
+		"domain":"rgrinn.tmk-grinn.ru",
+		"domain_link":"http://rgrinn.tmk-grinn.ru/",
+		"color":"#0e6740",
+		"agreement_page":"agreement",
+		"copyright":"Ресторан «Гринн»",
+		"email":"r.grinn@tmk.grinn-corp.ru",
+		"phone":" +7 (4862) 44-01-81",  
+		"phone_tel":"+7486440181",   
+		"clock":"Ежедневно с 7:00 до 00:00",  
+		"address":"Орёл, Орловская обл., Кромское шоссе, д.4"
+	},
+	"soc":{
+		"vk":"https://vk.com/",
+		"fb":"https://www.facebook.com/",
+		"ok":"https://ok.ru/group/",
+		"tw":"https://twitter.com/",
+		"inst":"https://www.instagram.com/"
+	},
+	"page":{
+		"index":"/",
+		"menu":"/menu.html",
+		"action":"/action.html",
+		"action_card":"/action-card.html",
+		"event":"/event.html",
+		"event_card":"/event-card.html",
+		"guests":"/guests.html",
+		"newlyweds":"/newlyweds.html",
+		"about":"/about.html",
+		"404":"/404.html",
+		"sitemap":"/sitemap.html",
+		"style":"/style.html",
+		"agreement":"/agreement.html"
+	},	                           
+	"url-path-css":"/css",
+	"url-path-img":"/img",
+	"url-path-js":"/js",
+	"url-path-plugins":"/plugins",
+	"url-path-favicon":"/favicon",
+	"url-path-docs":"/docs"
+}
